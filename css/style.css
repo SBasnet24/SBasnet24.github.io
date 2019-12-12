@@ -1,0 +1,74 @@
+/* h1,h2 {
+    color: #06BC9B;
+} */
+p{
+    color: #525d68;
+}
+.container.fluid {
+    padding: 20%;
+}
+p{
+    text-align: justify;
+}
+ .img-thumbnail {
+    width: 80%;
+    
+}  
+.jumbotron {
+    background-image: url(https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1591&q=80);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    
+  }
+  section {
+    padding-top: 4rem;
+  }
+#newsletter {
+    padding-top: 0;
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+  }
+  .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 180px;
+    padding-left: 15px;
+    padding-top: 445px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* .img-fluid{
+    width: 32.8%;
+} */
+/* For that reponsiveness image */
+.img-fluid  {
+    width: 32.8%;
+}
+
+i{
+    color: black;
+}
+/* icons hover */
+ .fa-facebook-f:hover , .fa-instagram:hover , .fa-github:hover , .fa-google-plus-square:hover {
+    color: red;
+}
+
+.better-blue {
+    color: black;
+    border-color: #f8f9fa;
+    background: #f8f9fa;
+
+    &:hover {
+        color: black;
+        background: white;
+    }
+}
+.nav-pills > li > a.active {
+    background-color: #868e9e!important;
+}
