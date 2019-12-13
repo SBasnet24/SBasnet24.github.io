@@ -72,3 +72,6 @@ i{
 .nav-pills > li > a.active {
     background-color: #868e9e!important;
 }
+p.black{
+    color: #212529;
+}
