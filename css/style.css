@@ -72,6 +72,7 @@ i{
 .nav-pills > li > a.active {
     background-color: #868e9e!important;
 }
+/* making the contact me p class color and font  */
 p.black{
     color: #212529;
     font-size: 5rem;
